@@ -20,4 +20,4 @@ With all 10 phases complete, the Ideal Studios cloud infrastructure now stands a
 
 *  `Safety`: AWS Backup provides the ultimate insurance policy.
 
- Files 1-X contains the specific steps taken from start to finish in to achieve this.
+ Files 1-X contains the specific steps taken from start to finish in order to achieve this.
