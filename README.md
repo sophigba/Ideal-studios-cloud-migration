@@ -3,6 +3,10 @@ Ideal Studios is a high-end architectural firm that required a secure, scalable 
 
 ---
 
+![IS Architecture](Images/2-IS-ARCHITECTURE.png)
+
+---
+
 With all 10 phases complete, the Ideal Studios cloud infrastructure now stands as a high-performance, secure, and self-healing environment with the following features:
 *  Governance: MFA and Budget Alarms protect the account.
 
